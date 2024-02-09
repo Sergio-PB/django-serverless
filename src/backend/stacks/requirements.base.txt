@@ -1,0 +1,2 @@
+# Example dependencies of your app
+Django==4.2.10
